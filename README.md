@@ -44,13 +44,8 @@ Across tested Tadawul equities, short-term price movements exhibit regime change
 
 **Live App:** *(replace with your deployed Streamlit link)*
 
-> [https://your-streamlit-app-url.streamlit.app](https://your-streamlit-app-url.streamlit.app)
+[> [https://your-streamlit-app-url.streamlit.app](https://your-streamlit-app-url.streamlit.app)](https://tarmeez-dashboard-3ao3phlcgjmpdore97hdip.streamlit.app/)
 
-**Code Repository:** *(replace with your GitHub repo)*
-
-> [https://github.com/your-username/tarmeez-dashboard](https://github.com/your-username/tarmeez-dashboard)
-
-**Reference:** Streamlit deployment docs: [https://docs.streamlit.io/deploy/streamlit-community-cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud)
 
 ## Assumptions & Limitations
 
